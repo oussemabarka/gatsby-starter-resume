@@ -34,6 +34,6 @@ module.exports = {
     },
   ],
   email: 'oussema.barka@etudiant-isi.utm.tn ',
-  phone: '+216 99 063 433',
+  phone: '00216 99 063 433',
   address: 'Sokra , Ariana',
 };
