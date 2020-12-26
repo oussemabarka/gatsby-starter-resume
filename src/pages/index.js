@@ -270,7 +270,7 @@ Technologies Used: React Native, Firebase
             </li>
             <li>
               <i className="fa-li fa fa-trophy text-warning"></i>1<sup>st</sup>
-              Microsoft C# - TEK-UP Certification
+              Microsoft C - TEK-UP Certification
 
             </li>
             <li>
