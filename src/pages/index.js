@@ -23,10 +23,7 @@ const IndexPage = () => (
             <a href={`mailto:${config.email}`}>{config.email}</a>
           </div>
           <p className="lead mb-5">
-            I am experienced in leveraging agile frameworks to provide a robust
-            synopsis for high level overviews. Iterative approaches to corporate
-            strategy foster collaborative thinking to further the overall value
-            proposition.
+          I am an engineering student, passionate about the world of dev. I have created web and Mobile applications using Angular , Spring Boot and Flutter. I am comfortable with databases and the object-oriented world
           </p>
           <div className="social-icons">
             {config.socialLinks.map(social => {
@@ -52,65 +49,60 @@ const IndexPage = () => (
 
           <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
             <div className="resume-content">
-              <h3 className="mb-0">Senior Web Developer</h3>
-              <div className="subheading mb-3">Intelitec Solutions</div>
+              <h3 className="mb-0">Mobile Developer (summer internship)</h3>
+              <div className="subheading mb-3">GKID</div>
               <p>
-                Bring to the table win-win survival strategies to ensure
-                proactive domination. At the end of the day, going forward, a
-                new normal that has evolved from generation X is on the runway
-                heading towards a streamlined cloud solution. User generated
-                content in real-time will have multiple touchpoints for
-                offshoring.
+              Development of a Multiplatform Mobile Application (ANDROID, IOS) for the JCI association Tunisia.
+Technologies Used: Flutter, Firebase, Google API,
+Facebook API
               </p>
             </div>
             <div className="resume-date text-md-right">
-              <span className="text-primary">March 2013 - Present</span>
+              <span className="text-primary">From July 2020 to august 2020</span>
             </div>
           </div>
 
           <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
             <div className="resume-content">
-              <h3 className="mb-0">Web Developer</h3>
-              <div className="subheading mb-3">Intelitec Solutions</div>
+              <h3 className="mb-0">Full Stack Web Developer</h3>
+              <div className="subheading mb-3">Freelance</div>
               <p>
-                Capitalize on low hanging fruit to identify a ballpark value
-                added activity to beta test. Override the digital divide with
-                additional clickthroughs from DevOps. Nanotechnology immersion
-                along the information highway will close the loop on focusing
-                solely on the bottom line.
+              Development of a Web Platform for the Coupe du
+World Qatar2022 and other projects.
+Technologies Used: Spring frameworks (Spring MVC
+REST, Spring DATA, Spring Security), Angular 9,
+Postgresql
               </p>
             </div>
             <div className="resume-date text-md-right">
-              <span className="text-primary">December 2011 - March 2013</span>
+              <span className="text-primary">Since January 2019</span>
             </div>
           </div>
 
           <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
             <div className="resume-content">
-              <h3 className="mb-0">Junior Web Designer</h3>
-              <div className="subheading mb-3">Shout! Media Productions</div>
+              <h3 className="mb-0">Coach/Developer Full Stack</h3>
+              <div className="subheading mb-3">Fivepoints The Talent Pool </div>
               <p>
-                Podcasting operational change management inside of workflows to
-                establish a framework. Taking seamless key performance
-                indicators offline to maximise the long tail. Keeping your eye
-                on the ball while performing a deep dive on the start-up
-                mentality to derive convergence on cross-platform integration.
+              Technical Training Manager
+Supervision of Development Projects.
+Technologies Used: Angular, HTML5, CSS3, JS,
+JAVA, PHP (5, 7)
               </p>
             </div>
             <div className="resume-date text-md-right">
-              <span className="text-primary">July 2010 - December 2011</span>
+              <span className="text-primary">From June 2018 to november 2018</span>
             </div>
           </div>
 
           <div className="resume-item d-flex flex-column flex-md-row justify-content-between">
             <div className="resume-content">
-              <h3 className="mb-0">Web Design Intern</h3>
-              <div className="subheading mb-3">Shout! Media Productions</div>
+              <h3 className="mb-0">Mobile Developer </h3>
+              <div className="subheading mb-3">Techcare</div>
               <p>
-                Collaboratively administrate empowered markets via plug-and-play
-                networks. Dynamically procrastinate B2C users after installed
-                base benefits. Dramatically visualize customer directed
-                convergence without revolutionary ROI.
+              Development of a Multiplatform Mobile Application (ANDROID, IOS) targeting Tourists for the
+discovery of the country.
+Technologies Used: React Native, Firebase
               </p>
             </div>
             <div className="resume-date text-md-right">
@@ -131,27 +123,39 @@ const IndexPage = () => (
 
           <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
             <div className="resume-content">
-              <h3 className="mb-0">University of Colorado Boulder</h3>
-              <div className="subheading mb-3">Bachelor of Science</div>
-              <div>Computer Science - Web Development Track</div>
-              <p>GPA: 3.23</p>
+              <h3 className="mb-0">Higher Institute of Computer Science</h3>
+              <div className="subheading mb-3">Computer Software Engineering</div>
+              
+              
             </div>
             <div className="resume-date text-md-right">
-              <span className="text-primary">August 2006 - May 2010</span>
+              <span className="text-primary">September 2018 - Present</span>
             </div>
           </div>
 
           <div className="resume-item d-flex flex-column flex-md-row justify-content-between">
             <div className="resume-content">
-              <h3 className="mb-0">James Buchanan High School</h3>
-              <div className="subheading mb-3">Technology Magnet Program</div>
-              <p>GPA: 3.56</p>
+              <h3 className="mb-0">Higher Institute of Computer Science</h3>
+              <div className="subheading mb-3">Computer System and Software</div>
+              
             </div>
             <div className="resume-date text-md-right">
-              <span className="text-primary">August 2002 - May 2006</span>
+              <span className="text-primary">September 2015 - June 2018</span>
             </div>
           </div>
+          <div className="resume-item d-flex flex-column flex-md-row justify-content-between">
+            <div className="resume-content">
+              <h3 className="mb-0">High school of Hannibal Ariana</h3>
+              <div className="subheading mb-3">Technical Science Baccalaureate</div>
+              
+            </div>
+            <div className="resume-date text-md-right">
+              <span className="text-primary">September 2011 - June 2015</span>
+            </div>
+          </div>
+
         </div>
+        
       </section>
 
       <hr className="m-0" />
@@ -259,37 +263,31 @@ const IndexPage = () => (
         <div className="w-100">
           <h2 className="mb-5">Awards &amp; Certifications</h2>
           <ul className="fa-ul mb-0">
+           
             <li>
               <i className="fa-li fa fa-trophy text-warning"></i>
-              Google Analytics Certified Developer
-            </li>
-            <li>
-              <i className="fa-li fa fa-trophy text-warning"></i>
-              Mobile Web Specialist - Google Certification
+              Mobile Web Specialist - TEK-UP Certification
             </li>
             <li>
               <i className="fa-li fa fa-trophy text-warning"></i>1<sup>st</sup>
-              Place - University of Colorado Boulder - Emerging Tech Competition
-              2009
+              Microsoft C# - TEK-UP Certification
+
             </li>
             <li>
               <i className="fa-li fa fa-trophy text-warning"></i>1<sup>st</sup>
-              Place - University of Colorado Boulder - Adobe Creative Jam 2008
-              (UI Design Category)
+              Android - TEK-UP Certification
+
             </li>
             <li>
               <i className="fa-li fa fa-trophy text-warning"></i>2<sup>nd</sup>
-              Place - University of Colorado Boulder - Emerging Tech Competition
-              2008
+              Microsoft xamarin - TEK-UP Certification
             </li>
             <li>
               <i className="fa-li fa fa-trophy text-warning"></i>1<sup>st</sup>
-              Place - James Buchanan High School - Hackathon 2006
+              Unity 3D - TEK-UP Certification
+
             </li>
-            <li>
-              <i className="fa-li fa fa-trophy text-warning"></i>3<sup>rd</sup>
-              Place - James Buchanan High School - Hackathon 2005
-            </li>
+            
           </ul>
         </div>
       </section>
