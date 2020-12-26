@@ -22,18 +22,7 @@ module.exports = {
     
     'gatsby-plugin-sass',
     'gatsby-plugin-offline',
-    {
-      resolve: "gatsby-plugin-antd",
-      options: {
-        style: true,
-      },
-    },
-    {
-      resolve: "gatsby-plugin-less",
-      options: {
-        javascriptEnabled: true,
-      },
-    }
+    
     
   ],
 };
